@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "foodHub",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "food_app_02",
+    "slug": "food_app_02"
+  }
+}
